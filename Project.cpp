@@ -210,7 +210,7 @@ main()
    int k=0,orio,served=0,waiting=0,orno=0,orderno=1000;
    float result=0;
    string name;
-    cout <<setw(50)<< "Welcome to Cafe Dwaraka" << endl;
+    cout <<setw(50)<< "Welcome to Cafe!" << endl;
     while(k!=4)
     {
     cout<<"1. Order"<<endl;
